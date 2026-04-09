@@ -125,7 +125,7 @@ elif method == "denoise_cot":
 ```
 # Macro-action Prompting
 
-The model is prompted to generate the reasoning, foloowing a templat, consisting of detailed steps.
+The model is prompted to generate the reasoning, foloowing a template, consisting of detailed steps.
 
 ```
 elif method == "macro_action":
